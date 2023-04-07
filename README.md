@@ -1,1 +1,1 @@
-# github-setup-js2
+# IT122-js2
